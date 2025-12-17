@@ -16,5 +16,11 @@ This project performs a detailed **Exploratory Data Analysis (EDA)** on a massiv
 * **NumPy**
 * **Seaborn & Matplotlib**
 
+  ## 🚀 How to Run
+1.  **Download the Project:** Click the green "Code" button above and select **"Download ZIP"**.
+2.  **Unzip:** Extract the files to a folder on your computer.
+3.  **Verify Data:** Ensure the dataset file (CSV) is in the same folder as the `.ipynb` file.
+4.  **Launch:** Open `Flight-Price-Analysis-EDA.ipynb` using Jupyter Notebook or VS Code and run the cells.
+
 ---
 *This project focuses on data visualization and statistical analysis within the aviation domain.*
