@@ -1,4 +1,4 @@
-# ✈️ Flight Analysis
+# ✈️ Flight Analysis Project
 
 ## 📌 Project Overview
 This project performs a detailed **Exploratory Data Analysis (EDA)** on a massive aviation dataset containing over **300,000 flight records**. The main objective is to extract meaningful insights about airline market trends, flight durations, and booking patterns using statistical methods.
